@@ -7,5 +7,6 @@ The original data processor that was effective, yet time consuming is listed as 
 This program was utilized by Hunter College Master's scholar Sara Ahmed for her thesis on "The Impact of Select Buses on Taxi Ridership in NYC."
 
 The paper can be found here: https://drive.google.com/file/d/1PFw9XPH6YqisPvvEWWfs1a7joeHgkw3e/view?usp=sharing
+NYC Taxi Data provided here: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 Created by Sunniyatul Quaderin.
